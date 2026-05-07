@@ -1,0 +1,37 @@
+This dataset models metabolic and lifestyle indicators associated with diabetes risk.
+
+Columns Description
+
+Patient_ID – Unique identifier for each individual.
+
+age – Age in years.
+
+bmi – Body Mass Index.
+
+fasting_glucose_level – Fasting blood glucose level.
+
+insulin_level – Blood insulin level.
+
+blood_pressure – Blood pressure measurement.
+
+physical_activity_level – Physical activity category (Low, Moderate, High).
+
+daily_calorie_intake – Average daily calorie intake.
+
+sugar_intake_grams_per_day – Daily sugar consumption in grams.
+
+sleep_hours – Average sleep duration per night.
+
+family_history_diabetes – Indicates genetic predisposition (Yes/No).
+
+waist_circumference_cm – Waist measurement in centimeters.
+
+cholesterol_level – Blood cholesterol level.
+
+triglycerides_level – Triglyceride level in blood.
+
+stress_level – Stress level on a scale from 1 to 10.
+
+diabetes_risk_score – Calculated diabetes risk score (0–100).
+
+diabetes_risk_category – Risk classification: Low, Prediabetes, High Risk.
